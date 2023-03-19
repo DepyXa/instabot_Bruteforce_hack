@@ -20,7 +20,7 @@ from instabot import Bot
 ProxyList = []
 
 def cls():
-	if os.name == "posix":
+	if os.name == "posix" in os.name == "windows" in os.name == "win":
 		os.system("clear")
 	else:
 		os.system("cls")
