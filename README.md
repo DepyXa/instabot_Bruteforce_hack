@@ -1,4 +1,4 @@
-# instabot_Bruteforce_hack
+# Instabot Bruteforce Hack
 
 This code is intended for: 
 1) Checking the security of your Instagram account. 
@@ -11,5 +11,4 @@ There are only a couple of minuses in the code,
 # WARNING:
 Use of this code is illegal and punishable by law.
 The author of the code is not responsible for your actions.
-(I will not be 
-responsible for anything, use at your own risk...)
+(I will not be responsible for anything, use at your own risk...)
